@@ -1,5 +1,5 @@
 {
-    "name": "maantje/xhprof-buggregator-laravel",
+    "name": "pavelmgn/xhprof-buggregator-laravel",
     "description": "Xhprof buggregator integration for Laravel",
     "keywords": [
         "maantje",
